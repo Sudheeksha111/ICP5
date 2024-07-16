@@ -4,4 +4,4 @@ Then doing  the prediction on the test data and then visualize one of the recons
 Also, visualize the same test data before reconstruction using Matplotlib
 Repeat the  above process on the denoisening autoencoder and 
 plot loss and accuracy using the history object
-below is the zoom link:
+below is the zoom link:C:\Users\sudhe\Documents\zoom\2024-07-15 20.31.10 sudheeksha vuppu's zoom meeting
